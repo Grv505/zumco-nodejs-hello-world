@@ -1,7 +1,7 @@
 ---
 applications:
 - path: .
-  name: node-hello-world-example
+  name: CD0201-ec4-nodesample
   memory: 256M
   instances: 1
   random-route: true
